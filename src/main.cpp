@@ -18,13 +18,13 @@ GyverOS<3> OS;
 
 #include <ESP8266WiFi.h>
 
-#define WIFI_SSID "Astra"
-#define WIFI_PASS "NotAnyAstra"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 #include <FastBot.h>
 
-#define BOT_TOKEN "1371360165:AAEVjHpAzaJrTvF5bxdx77ppk88gLsoNkLI"
-#define CHAT_ID "665408649"
+#define BOT_TOKEN ""
+#define CHAT_ID ""
 
 FastBot bot(BOT_TOKEN);
 
